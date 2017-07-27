@@ -9,7 +9,7 @@ PHP Mailer as a library for LEPTON-CMS
 
 #### Installation
 
-* download latest [lib_phpmailer.zip] [2] installation archive
+* download latest [lib_phpmailer.zip][2] installation archive
 * in CMS backend select the file from "Add-ons" -> "Modules" -> "Install module"
 
 #### Notice
